@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(29, 186, 39);
+}
+
+h1,
+p {
+  text-align: center;
+  font-family: "Lucida Sans", sans-serif;
+}
+
+#clock {
+  font-size: 150px;
+  display: flex;
+  justify-content: center;
+  border: 5px solid black;
+  background: linear-gradient(180deg, white, green);
+}
